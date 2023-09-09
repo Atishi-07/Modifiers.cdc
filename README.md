@@ -5,9 +5,9 @@ we have 4 variables a,b,c,d and 3 functions public function, contract function, 
 
  Getting started-
 
-It starts by pasting the contracts.cdc to contracts 1 
-And pasting the scripts.cdc to scripts
-Then deploy and execute to 0x02
+It starts by pasting the contracts.cdc to contracts 2
+And pasting the scripts.cdc to script
+Then deploy and execute to 0x01
 
 Authors
 
